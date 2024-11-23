@@ -1,9 +1,9 @@
-**Name:** Diwakar Patel.
-**Company:** CODTECH IT SOLUTIONS.
-**ID:** CT08DS9531.
-**Domain:** PYTHON PROGRAMMING.                                                                                                                                                                                               
-**Duration:** October to November 2024.
-**Mentor:** Neela Santhosh Kumar.
+- **Name:** Diwakar Patel.
+- **Company:** CODTECH IT SOLUTIONS.
+- **ID:** CT08DS9531.
+- **Domain:** PYTHON PROGRAMMING.                                                                                                                                                                                               
+- **Duration:** October to November 2024.
+- **Mentor:** Neela Santhosh Kumar.
 
 ## Overview of the Project
 
